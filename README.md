@@ -1,13 +1,17 @@
 # Proyecto del Hackathon 
 
 ## Descripción del Proyecto
-El proyecto "Next2U" tiene como objetivo proporcionar información detallada sobre los barrios, tipos de comercio, la cantidad de habitantes por barrio. 
-La idea es crear una plataforma que facilite la toma de decisiones para aquellos interesados en establecer o mejorar negocios locales. 
-La pagina presenta el catálogo completo de los tipos de comercio existentes en cada barrio y clasifica por categorías para facilitar la búsqueda.
+Hemos escogido el reto Fomentación del comercio local como punto central de nuestro proyecto. El proyecto "Next2U" tiene como objetivo proporcionar información detallada sobre los barrios, tipos de comercio, la cantidad de habitantes por barrio.  La idea es crear una plataforma que facilite la toma de decisiones para aquellos interesados en establecer o mejorar negocios locales. La pagina presenta el catálogo completo de los tipos de comercio existentes en cada barrio y clasifica por categorías para facilitar la búsqueda.
 
 ### ️💻 Technology stack
 
 #### DATA:
+
+La siguiente tabla proporciona información detallada sobre diversos aspectos demográficos y socioeconómicos de los barrios:
+https://github.com/luismiguelcasadodiaz/jump2digital/blob/main/hackaton/DATA_README.md
+
+Fuentes de datos:
+https://github.com/luismiguelcasadodiaz/jump2digital/blob/main/hackaton/datasources.md
 
 En este repositorio incluimos 2 archivos diferentes:
 https://github.com/mpilligua/Jump2Digital-DataAnalysis
@@ -15,13 +19,6 @@ https://github.com/mpilligua/Jump2Digital-DataAnalysis
 crear_basedatos.ipynb: Se utiliza para limpiar y preparar los datos para la solución de backend y frontend.
 
 transformacion_analysis.ipynb: Aquí analizamos y tratamos de encontrar patrones, además de implementar algoritmos para descubrir relaciones.
-
-
-La siguiente tabla proporciona información detallada sobre diversos aspectos demográficos y socioeconómicos de los barrios:
-https://github.com/luismiguelcasadodiaz/jump2digital/blob/main/hackaton/DATA_README.md
-
-Fuentes de datos:
-https://github.com/luismiguelcasadodiaz/jump2digital/blob/main/hackaton/datasources.md
 
 #### BACKEND:
 ##### Backend repository
