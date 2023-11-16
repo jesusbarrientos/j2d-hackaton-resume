@@ -8,6 +8,15 @@ La pagina presenta el catálogo completo de los tipos de comercio existentes en 
 ### ️💻 Technology stack
 
 #### DATA:
+
+En este repositorio incluimos 2 archivos diferentes:
+https://github.com/mpilligua/Jump2Digital-DataAnalysis
+
+crear_basedatos.ipynb: Se utiliza para limpiar y preparar los datos para la solución de backend y frontend.
+
+transformacion_analysis.ipynb: Aquí analizamos y tratamos de encontrar patrones, además de implementar algoritmos para descubrir relaciones.
+
+
 La siguiente tabla proporciona información detallada sobre diversos aspectos demográficos y socioeconómicos de los barrios:
 https://github.com/luismiguelcasadodiaz/jump2digital/blob/main/hackaton/DATA_README.md
 
