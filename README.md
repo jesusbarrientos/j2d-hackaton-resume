@@ -16,14 +16,18 @@ https://github.com/luismiguelcasadodiaz/jump2digital/blob/main/hackaton/datasour
 
 #### BACKEND:
 ##### Backend repository
-https://github.com/anniakuz/projectJ2D
+https://github.com/anniakuz/jump2digital_group6
+
 - Maven
 - Java 17
 - Spring Boot 3.0.12
-- MongoDB para persistencia de datos
+- MongoDB y MySQL para persistencia de datos
 - Hibernate Core (Jakarta) para acceso a la base de datos
+- Spring Security para autenticación 
 - Lombok para simplificación del código
 - Spring Boot Devtools para desarrollo
+
+Utilizamos archivos JSON con datos proporcionados por el equipo de datos. Cargamos "BarrisData (3).json" en MySQL y "sectorPerBarri.json" en MongoDB.
 
 #### FRONTEND:
 ##### Frontend repository
